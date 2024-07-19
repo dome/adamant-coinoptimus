@@ -44,7 +44,7 @@
   "author": "Aleksei Lebedev, ADAMANT Team <devs@adamant.im> (https://adamant.im)",
   "license": "GPL-3.0",
   "dependencies": {
-    "adamant-api": "^1.8.0",
+    "adamant-api": "^2.4.0",
     "axios": "^1.7.2",
     "deep-object-diff": "^1.1.9",
     "express": "^4.19.2",
